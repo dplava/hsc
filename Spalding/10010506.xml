@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010506</dcterms:identifier>
+   <dcterms:title>Pas Kaart / van de / Zee Kusten van / Virginia / Tusschen / C Henry en T'Hooge Land van Renselaars Hoek / Door Vooght Geometra</dcterms:title>
+   <dcterms:description>Amsterdam; This finely drawn chart of the Chesapeake Bay appeared as chart 19 in De Nieuwe Groote Lightende Zee-Farkel, Part 4, produced by Johannis van Keuler (1654-1715). First issued in 1684 and reprinted continuously until 1783, this volume covered the same geographical area that Arent Roggeveen had included in his 1675 pilot book, Het Brandende Venn (The Burning Fen), as well as the West Indies and eastern parts of North America. The eventual six volumes of the atlas covered virtually all the known coastal areas in the world. Claas Jansz Vooght was a land surveyor who authored volumes one through five of the series. Active from 1678 to 1885, the Van Keulen firm was the largest unofficial hydrographic office in the world during its early period. Oriented with north to the right, the map is based on the 1673 Augustine Herrman map of Virginia and Maryland. It also appeared in French and Spanish editions. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language/>
+   <dcterms:creator>Vooght, Claes Janszoon, -1696</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial/>
+   <dcterms:date>1684</dcterms:date>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>The Henry and Kaye Spalding Map Collection at Hampden-Sydney College; Image appears on pg. 32 (plate 2) of This New Founde Land, Hampden-Sydney College, Virginia, 2008</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/bab2ecc244f7ac823565696952f3af39.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/663</edm:isShownAt>
+</mdRecord>

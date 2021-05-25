@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010528</dcterms:identifier>
+   <dcterms:title>Virginiae / Item et / Floridae / Americae Provinciarum, nova / Descriptio</dcterms:title>
+   <dcterms:description>Amsterdam; Note: image depicts front; see "Related Item" field for verso of image. Based on White's map of Virginia and Le Moyne's map of Florida and derived from Hondius's 1606 map of the same name, this small map appeared in Gerardi Mercatoris Atlas sive Cosmographicae Meditationes. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language/>
+   <dcterms:creator>Cloppenburg, Johannes, 1592-1652</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial/>
+   <dcterms:date>1630/1636</dcterms:date>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>The Henry and Kaye Spalding Map Collection at Hampden-Sydney College; Image appears on pg. 24 (plate 37) of This New Founde Land, Hampden-Sydney College, Virginia, 2008</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/ce37e2d9ae5054f2c8a032a3e25635de.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/685</edm:isShownAt>
+</mdRecord>

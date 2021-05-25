@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010526</dcterms:identifier>
+   <dcterms:title>Carte / de la / Virginie, de la / Baye Chesapeack, / et Pays Voisins. / Pour sevir a l'Histoire Generale / de voyages. / Tiree des meilleures Cartes Angloises.</dcterms:title>
+   <dcterms:description>Paris; Derived from 1754 Fry-Jefferson map of Virginia, this map appeared in Histoire Generale des Voyages by l'Abbe Provost in Paris until 1775. It shows the area from Philadelphia south to Cape Henry and west to the mountains and includes names of towns. Also noted is the great road that ran from Philadelphia, through the Valley of Virginia, and down into the Carolinas. Jacques Nicholas Bellin was "hydrographer to the king" and the first hydrographic engineer of the "Depot des cartes, et journaux du Ministere de la Marine." --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language/>
+   <dcterms:creator>Bellin, Jacques Nicolas, 1703-1772</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial/>
+   <dcterms:date>1757</dcterms:date>
+   <dcterms:type>Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>The Henry and Kaye Spalding Map Collection at Hampden-Sydney College; Image appears on pg. 39 (plate 36) of This New Founde Land, Hampden-Sydney College, Virginia, 2008</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/637404ecdfb9dfdfe5c58864796ab2f7.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/683</edm:isShownAt>
+</mdRecord>
