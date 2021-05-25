@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010565</dcterms:identifier>
+   <dcterms:title>The Voice of Prince Edward County, Vol. 1, No. 3</dcterms:title>
+   <dcterms:description>"Nation Has New Voting Rights Act" - Author Unknown -The Voting Rights Act of 1965 is explored. / "Visiting Science Program Here" - Author Unknown -Traveling scientists present to children in the Operation Catch-Up program. / "Peace Corps Needs Farmers" - Author Unknown - The Peace Corps is looking for volunteers with farm experience to go overseas. / "Impressions of Headstart"- Sandra Young - Sandra Young, an instructor at Operation Catch-Up and volunteer at Headstart, gives an overview of the Headstart program. / "Citizens' Group Forms In Prospect" - Author Unknown - A number of citizens in the Prospect community organize a political group, the Prospect Association for Progress and Action. / "Nottoway Summer Projects" - Miss A. Savary - Nottoway County prepares for the desegregation of the schools. / "Dance Class Continues Into Fall" - Author Unknown - The modern dance class through Operation Catch-Up is offered through the fall. / "Community Clears Recreation Area" - Author Unknown - Work on the recreation project in the southern part of Prince Edward County began. / "Editorial: The New South - One Man One Vote" - Author Unknown - The piece speaks of the Voting Rights Bill being signed into law and the importance of the vote.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Various Contributors</dcterms:creator>
+   <dcterms:creator>James E. Ghee, Jr.</dcterms:creator>
+   <dcterms:creator>Leslie F. Griffin, Jr.</dcterms:creator>
+   <dcterms:creator>Carlton Terry</dcterms:creator>
+   <dcterms:subject>African American newspapers</dcterms:subject>
+   <dcterms:subject>Associations, institutions, etc.—African American membership</dcterms:subject>
+   <dcterms:subject>Race discrimination—United States</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Farmville, VA (Prince Edward County)</dcterms:spatial>
+   <dcterms:date>1965-08-28</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>The Voice of Prince Edward County</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/2d2a49fa617bde56c5d32ef71b89a027.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/723</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010573</dcterms:identifier>
+   <dcterms:title>The Voice of Prince Edward County, Vol. 3, No. 2</dcterms:title>
+   <dcterms:description>"NAACPer Reviews Activities in PE" - Gladys Lawson - The NAACP has been very influential since organzing a branch in Prince Edward County. / "My Reflection on College Life" - O. Jerome Jackson - O. Jerome Jackson reflects on college depression due to his lack of preparation. / "Moton Downed By Wyatt" - John Stokes - Moton loses to Wyatt High School. / "3 PE Teenagers Attend Seminar" - Robert Booker - Three Prince Edward Students attended a seminar in South Carolina on Race, Religion, and Personality Development. / "Interview with School Dentist" - Carl Eggleston and Leroy Ross - An interview with Dr. Myron West, school dentist, and information about dental hygiene. / 'IER Completes Successful Project" - Robert Booker and Larry Hines - The representative for the Institute of Educational Research reveals to THE VOICE that she is "pleased with the result of the reading program." / "Man of Great Action" - Vivian Scott and Debra White - A look at Mr. Otis "register and vote" Scott and his drive to get the Black community registered and voting. / "Moton Ends 1967 Basketball Season" - John Stokes - Moton beats Lunenberg High at their Homecoming game. / "Drama Club Busy" - Herbert Ferguson - Moton drama club was one of three schools chosen in District to go to State. / "My Life at Cushing" - Gene Lee - Gene Lee is accepted into a preparatory school as part of the ABC (A Better Choice) program. / "Winners Announced" - Carl Ross - Winners for THE VOICE raffle are announced. / "Editorial: The Children of Prince Edward County" - Harriet White - A plea for the children of Prince Edward County to be taught to practice love, not hate. / "Editorial: Prejudice" - Author Unknown - A plea for the country to improve race relations. / "Editorial: Teenagers Look at the Church" - Author Unknown - A plea for churches to develop programs for youths. /</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Various Contributors</dcterms:creator>
+   <dcterms:creator>Phaeby Dupey, editor</dcterms:creator>
+   <dcterms:creator>Donzella White, editor</dcterms:creator>
+   <dcterms:subject>African American newspapers</dcterms:subject>
+   <dcterms:subject>Associations, institutions, etc.—African American membership</dcterms:subject>
+   <dcterms:subject>Race discrimination—United States</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Farmville, VA (Prince Edward County)</dcterms:spatial>
+   <dcterms:date>1967-04</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>The Voice of Prince Edward County</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/6aa859dc3f5056e50503dfd87732d595.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/731</edm:isShownAt>
+</mdRecord>

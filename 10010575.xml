@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010575</dcterms:identifier>
+   <dcterms:title>The Voice of Prince Edward County, Vol. 2, No. 1</dcterms:title>
+   <dcterms:description>"Speakers Appraise War in Vietnam" - Robert Booker - Members of THE VOICE met with members of the Richmond Council for Peace Education and others who are against U.S. policy in Vietnam. / "CAP Official Reveals Plans for Massive Educational Program" - O. Jerome Jackson - A grant was awarded to the Prince Edward Community Action Group Inc. to continue work on a remedial reading project in the public schools as well as a night school for adults. / "Office Provides Aid to Farmers" - Mary Brown - Information about the Farmers Home Administration and loan opportunities is detailed. / "Adult Reading Classes Operate in Country" - Mrs. Virginia Dove - Details on the adult reading classes that were opened November 15, 1965. / "A Look at Life at Branch No. 2" - Wayne Johnson - A fifth grade student describes life at Mary E. Branch School No. 2. / "Two County Students Get 'A Better Chance' " - Donzella White - Two students from Prince Edward had the chance to attend prep school in Portsmouth, Massachusetts through Project ABC (A Better Chance). / "Why is There No Brotherly Love?" (Poem) - Lawrence Redd - A poem questioning why the war in Viet Nam is necessary. / "I Speak" (Poem) - Jesse Bolden - A poem analyzing love / "Editorial: It's About Time" - Author Unknown - A plea for the public school system to apply for federal funding. / "Editorial: Needed-Cultural Programs" - Author Unknown - A plea for more cultural programs at the public school. / "Editorial: Julian Bond and the Georgia State Legislature" - Author Unknown - Discussion of Julian Bond, a representative from Georgia, being voted unfit to hold his House seat because of his stance on Vietnam.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Various Contributors</dcterms:creator>
+   <dcterms:creator>Larry Hines, editor</dcterms:creator>
+   <dcterms:subject>African American newspapers</dcterms:subject>
+   <dcterms:subject>Associations, institutions, etc.—African American membership</dcterms:subject>
+   <dcterms:subject>Race discrimination—United States</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial/>
+   <dcterms:date>1966-03</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>The Voice of Prince Edward County</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/5497efa60a24b9e340635d3b73d660c9.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/733</edm:isShownAt>
+</mdRecord>
