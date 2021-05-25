@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010561</dcterms:identifier>
+   <dcterms:title>The Voice of Prince Edward County, Vol. ?, No. 7</dcterms:title>
+   <dcterms:description>"Credo" - Robert R. Moton - A quote from Robert R. Moton / "The Rev. Mr. Griffin Speaks" - L. Francis Griffin, Sr., Pastor - L. F. Griffin writes to set the record straight on issues pertaining to him. / "PTA Members Locked Out" - Robert R. Moton - PTA members were locked out of the school auditorium by school principal Clarence P. Penn. / "Editorial Comment" - Author Unknown - Details surrounding the PTA and school administration's division are explored. / "Dr. Robert Russa Moton, A Man for Our Time" - Author Unknown - A biographical article on Dr. Robert Russa Moton.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Various Contributors</dcterms:creator>
+   <dcterms:creator>Aphonso Vance White, editor</dcterms:creator>
+   <dcterms:subject>African American newspapers</dcterms:subject>
+   <dcterms:subject>Associations, institutions, etc.—African American membership</dcterms:subject>
+   <dcterms:subject>Race discrimination—United States</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Farmville, VA (Prince Edward County)</dcterms:spatial>
+   <dcterms:date>1969-12-08</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>The Voice of Prince Edward County</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/10d4c260412aff7e36c1f1e4053e0e9f.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/719</edm:isShownAt>
+</mdRecord>

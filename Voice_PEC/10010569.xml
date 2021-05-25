@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010569</dcterms:identifier>
+   <dcterms:title>The Voice of Prince Edward County, Vol. ?, No. ?</dcterms:title>
+   <dcterms:description>"Electoral Board: Show Your True Colors!" - Author Unknown - The School Board Chairman has resigned and there is a call for a Black community member to be appointed. / "Selective Buying Campaign Ends" - Author Unknown -Selective Buying Committee voted to end the committee in light of a black person being appointed to the school board. / "Palmer? Deserved Rest?" - Author Unknown - The author slams an editorial in the Farmville Herald which applauds retiring school board member, George Palmer. / "Red Cross Denies Blacks Swimming Lessons" - Author Unknown - The Red Cross swimming lessons were canceled after seven black children tried to enroll. / "Editorial: The Blessing of Liberty to Ourselves and Our Posterity" - Author Unknown - A plea for the Black community to stop donating blood to the Red Cross until they can provide such things as swimming lessons to all. / "Whose Side Are You On, Boy???" - Author Unknown - The principal of Robert R. Moton is upset as the school shuts down for two days due to student protests. / "Perry Speaks to N.Y.C. (Neighborhood Youth Corps)" - Author Unknown - The new superintendent spoke with the Neighborhood Youth Corps to stress his commitment to the school system. / "Goldfish Found Dead" - Author Unknown - A humorous piece about two goldfish being found dead in T. Burwell Robinson's office sink.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Various Contributors</dcterms:creator>
+   <dcterms:creator>Aphonso Vance White, editor</dcterms:creator>
+   <dcterms:subject>African American newspapers</dcterms:subject>
+   <dcterms:subject>Associations, institutions, etc.—African American membership</dcterms:subject>
+   <dcterms:subject>Race discrimination—United States</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Farmville, VA (Prince Edward County)</dcterms:spatial>
+   <dcterms:date>1969-07-04</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>The Voice of Prince Edward County</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/96fd13c5c5b560705cd39f4210c52d35.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/727</edm:isShownAt>
+</mdRecord>
