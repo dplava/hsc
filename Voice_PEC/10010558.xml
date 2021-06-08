@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010558</dcterms:identifier>
+   <dcterms:title>The Voice of Prince Edward County, Vol. 1, No. 5</dcterms:title>
+   <dcterms:description>"Homemaking Service in Planning Stage for P.E." - Frances Dove - The Community Action Group, Inc. is in the planning stages for a large homemaking program for the women of the community hopefully funded by the War on Poverty. / "Donations Needed" - Author Unknown - A call for donations for the children of Prince Edward County. / "Farmville District Supervisor" - Larry Hines - First in a series exploring county officials; this article's focus is on Board of Supervisors representative John Steck. / "Young Writer Has Work Published" - Author Unknown - Tenth grade student at Robert R. Moton, Robert Booker, has his poem published in the book American Poetry. / "Desegregation in Nottoway Peaceful" - A. Savary - On September 2, 151 Black children peacefully entered the all white school in the largest desegregation in rural Southside Virginia. / "Bad Luck Continues to Plague Eagles" - Reginald White, Jr. and James White, Jr. - The Moton Eagles football team ties Lunenburg High School and loses to Carter G. Woodson. / "FHA Rural Loans Set to Help County Families" - Author Unknown - A $2500 Opportunity Loan is a new program from the Federal Government to begin a small business, trade or to improve farms. / "Slate Adult Classes for Prince Edward County" - Mary Brown - Prince Edward County Adult Education classes are to begin soon with already more than 120 adults registered. / "Recreation Center Offers Variety of Activities" - Reginal White, Jr. - The Recreation Center at the Verso School holds activities every night of the week. / "4-Her's Take Annual Trip to State Fair" - Author Unknown - 4-H'ers take annual trip to the State Fair. / "Editorial: Notes on Nottoway" - Author Unknown - Congratulations are given to Nottoway for the success of their desegregation. / "Editorial: The Opportunity Loans" - Author Unknown -THE VOICE urges citizens to look into the Federal Opportunity Loans.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Various Contributors</dcterms:creator>
+   <dcterms:creator>Larry Hines, editor</dcterms:creator>
+   <dcterms:subject>African American newspapers</dcterms:subject>
+   <dcterms:subject>Associations, institutions, etc.—African American membership</dcterms:subject>
+   <dcterms:subject>Race discrimination—United States</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Farmville, VA (Prince Edward County)</dcterms:spatial>
+   <dcterms:date>1965-11</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>The Voice of Prince Edward County</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/efecddfac93cb3cb7626fec180fbc268.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/716</edm:isShownAt>
+</mdRecord>
