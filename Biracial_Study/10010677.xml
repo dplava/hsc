@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010677</dcterms:identifier>
+   <dcterms:title>The Bridge, Vol. 1, No. 10</dcterms:title>
+   <dcterms:description>The Bridge, Vol. 1, No. 10 / "Our group had its last meeting in the First Baptist Church in Farmville on October 27. Dr. Joseph Whitted presided; Dr. Gordon Moss introduced the speaker for the evening, Reverend Heslip M. Lee, Executive Secretary of the Virginia Council of Human Relations. Mr. Lee met with us to describe the Virginia Council and answer questions about it, to help us decide whether to become the Prince Edward Chapter of the Council." / Individuals referenced: Dr. Joseph Whitted, Dr. Gordon Moss, Reverend Heslip M. Lee, Roland Layton</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Unknown</dcterms:creator>
+   <dcterms:subject>United States--Race Relations</dcterms:subject>
+   <dcterms:subject>Civil Rights Movements--United States</dcterms:subject>
+   <dcterms:subject>School Integration--Massive Resistance Movement--Southern States</dcterms:subject>
+   <dcterms:subject>Prince Edward County Free School Association (Va.)</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Prince Edward County School Closures</dcterms:spatial>
+   <dcterms:date>1964-11</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>College Church Biracial Study Group</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/3e3626fab1cea45f1baa668f7dddf1f6.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/911</edm:isShownAt>
+</mdRecord>

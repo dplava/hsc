@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010653</dcterms:identifier>
+   <dcterms:title>A Christian Communique</dcterms:title>
+   <dcterms:description>A Christian Communique, page 1, number 1. Includes An Historical Review of theological study group that began meeting in August 1962 / "The inter-racial study group which has been meeting in the basement of College Church will hold the next session this Tuesday night, June 2, 8-9:30 pm. We will conclude our study of Race and the Renewal of the Church, looking especially at chapter seven. This deals with the tension which the church feels as it finds itself both a conservative institution and a prophetic voice." / Individuals referenced: Eleanor Grier, Orene McRae, Roland Layton, Tyler Miller, Joe Whitted, Arthur Field, Joe Clower, Roger Madison</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Unknown</dcterms:creator>
+   <dcterms:subject>United States--Race Relations</dcterms:subject>
+   <dcterms:subject>Civil Rights Movements--United States</dcterms:subject>
+   <dcterms:subject>School Integration--Massive Resistance Movement--Southern States</dcterms:subject>
+   <dcterms:subject>Prince Edward County Free School Association (Va.)</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Prince Edward County School Closures</dcterms:spatial>
+   <dcterms:date>1964-05-28</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>College Church Biracial Study Group</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/0ab4afdfc51fbba5b691306d1036a767.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/886</edm:isShownAt>
+</mdRecord>

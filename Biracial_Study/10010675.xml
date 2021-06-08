@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010675</dcterms:identifier>
+   <dcterms:title>Statistics of Prince Edward County</dcterms:title>
+   <dcterms:description>Statistics of Prince Edward County / A breakdown of statistics for Prince Edward County</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Unknown</dcterms:creator>
+   <dcterms:subject>United States--Race Relations</dcterms:subject>
+   <dcterms:subject>Civil Rights Movements--United States</dcterms:subject>
+   <dcterms:subject>School Integration--Massive Resistance Movement--Southern States</dcterms:subject>
+   <dcterms:subject>Prince Edward County Free School Association (Va.)</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Prince Edward County School Closures</dcterms:spatial>
+   <dcterms:date>circa 1964-1965</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>College Church Biracial Study Group</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/5613d5cb0bbcff9f168cfedf91c5dc96.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/909</edm:isShownAt>
+</mdRecord>

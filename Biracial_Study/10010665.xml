@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010665</dcterms:identifier>
+   <dcterms:title>Memo to the Session of College Church</dcterms:title>
+   <dcterms:description>February 17, 1964 Memo to the Session of College Church from Arthur M. Field, Jr. / "As we are all well aware, there is considerable concern felt in College Church over the activities of the Tuesday night study group on Presbyterian doctrine, and evidently many rumors and some misunderstanding are circulating. I have talked personally with some of you about this and several have said that they felt a real need for the Session to meet to discuss the matter."</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Arthur M. Field, Jr.</dcterms:creator>
+   <dcterms:subject>United States--Race Relations</dcterms:subject>
+   <dcterms:subject>Civil Rights Movements--United States</dcterms:subject>
+   <dcterms:subject>School Integration--Massive Resistance Movement--Southern States</dcterms:subject>
+   <dcterms:subject>Prince Edward County Free School Association (Va.)</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Prince Edward County School Closures</dcterms:spatial>
+   <dcterms:date>1964-02-17</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>College Church Biracial Study Group</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/8476351d00a16d600137420652edb96d.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/898</edm:isShownAt>
+</mdRecord>
