@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010505</dcterms:identifier>
+   <dcterms:title>Virginiae / partis australis, / et Floridae partis / orientalis, interjacentiumaq(ue) regionum / Nova Descriptio</dcterms:title>
+   <dcterms:description>Amsterdam; Note: see "Related Item" field for verso of map; Published in Jansson's Atlas Novus, editions 1649 to 1649, this is State 2 of 1640, differentiated by the sea-cherub, lower left, with a tail. In the 1630s there was fierce competition between the firms of Blaeu and Hondius (to which Jansson belonged), and often they copied each other's work. This map is virtually identical to one drawn by Blaeu in ca. 1638. Differences include the longitude correctly marked 298, 299, 300 on the Jansson map (298, 299, 200 on the Blaeu map) and the latitudinal marks on the right side next to the numbers are white blocks (black blocks on the Blaeu map). Both maps were based on the Mercator-Hondius map of 1606, Virginiae Item et Floridae, which in turn was based on surveys from John White and Jacques Le Moyne. The English and French arms mark the areas of each country's influence from the mouth of the Chesapeake Bay to northern Florida. Place names include many of those from Smith's map, such as "Powhatan flu" for the James River, but also indicate new ones. It is the first appearance of the name Newport News ("Newport nesa"), founded in 1621, on a map. The location of gold and silver in the Appalachian mountains ("Appalatcy") is documented from sixteenth-century reports. The figures supporting the cartouche are based on the drawings of John White. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language/>
+   <dcterms:creator>Jannssonius, Johannes;?Jansson, Jan, 1588-1664?</dcterms:creator>
+   <dcterms:creator>Jannsonius, Johannes, 1588-1664</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1649</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>The Henry and Kaye Spalding Map Collection at Hampden-Sydney College; Image appears on pg. 27 (plate 19) of This New Founde Land, Hampden-Sydney College, Virginia, 2008</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/74c03d93cb2a169dece008d80c792634.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/662</edm:isShownAt>
+</mdRecord>

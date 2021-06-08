@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010499</dcterms:identifier>
+   <dcterms:title>Carte / De La Caroline / Meridionale et Septentrionale / Et De La Virginie</dcterms:title>
+   <dcterms:description>Paris; Paris is noted as the prime meridian on this map which appeared as No. 158 in Atlas universel..., published between 1797 and 1801 by Edme Mentelle and Pierre Gregorie Chanlaire. It shows the area from New Jersey to Georgia. Mountains in the western parts and swamps near Norfolk and through Albemarle Sound are shown pictorially. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Tardieu, P. F. (Pierre François), 1757-1822</dcterms:creator>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>circa 1775</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>The Henry and Kaye Spalding Map Collection at Hampden-Sydney College; Image appears on pg. 48 (plate 11) of This New Founde Land, Hampden-Sydney College, Virginia, 2008</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/35c4e653ac8cfaa59b4f3462bf517ab1.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/656</edm:isShownAt>
+</mdRecord>

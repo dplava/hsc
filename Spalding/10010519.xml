@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010519</dcterms:identifier>
+   <dcterms:title>Nova Virginiae Tabula / Ex Officina Guiljelmi Blaew</dcterms:title>
+   <dcterms:description>Amsterdam; Note: see "Related Item" field for verso of map. The original plate for this derivative of the Smith map was issued in 1618 by Jodocus Hondius, Jr., and purchased by Willem Blaeu at Hondius's death in 1629. He replaced Hondius' name with his own. The map appeared in Atlantic Appendix (1630) and in most editions of this atlas. The map is larger than the original Smith map and is simpler in style, lacking ships and sea monsters. The trees are generic whereas the Smith map depicted different species of trees. The map includes an explanatory note above the Indian figure, and the royal arms lack their motto. Studying under Tycho Brahe, the Danish astronomer, Williem Janszoon founded his company in 1596. To prevent confusion with the mapmaker Johannes Janssonius, he changed his last name to Blaeu. His business flourished in Amsterdam, printing numerous maps and charts, until a fire destroyed the property in 1672. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language/>
+   <dcterms:creator>Blaeu, Willem Janszoon, 1571-1638</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1630/1640</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>The Henry and Kaye Spalding Map Collection at Hampden-Sydney College; Image appears on pg. 26 (plate 29) of This New Founde Land, Hampden-Sydney College, Virginia, 2008</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/e37388572781f7689309180f5ec1597c.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/676</edm:isShownAt>
+</mdRecord>
