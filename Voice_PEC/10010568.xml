@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010568</dcterms:identifier>
+   <dcterms:title>The Voice of Prince Edward County, Vol. 2, No. 3</dcterms:title>
+   <dcterms:description>"Question Box" - Vonita White - A new service from THE VOICE where questions are submitted. The question is: "What is a Primary Election?" / "'Push for 1,200' Voter Registration Drive Active in Prince Edward" - Author Unknown - A voter registration drive in Prince Edward County is pushing for 1,200 new Black voters. / "Prof. Recalls Teaching Boothe in Alexandria" - O. Jerome Jackson - Longwood Professor Dr. C.G. Moss recalls teaching Senate hopeful, Armistead Boothe. / "Know Your Candidates: Armistead L. Boothe" - Phaeby Dupey - An overview of Armistead L. Boothe who is running for U.S. Senate. / "L.F. Griffin Urges 'Disrupting Religion'" - O. Jerome Jackson - Rev. L.F. Griffin gives an Easter Sermon about "disrupting religion." / "NAACP Sparks, Lunenburg Buying, Voting Campaign" - Donzella White - Lunenberg takes steps in regards to Civil Rights: boycotting shops, applying for department store jobs, working on voter registration, and desegregation schools. / "Editorial: Moton Handicaps Students" - Author Unknown - A response to errors in the last issue's piece, this column continues to ask why the Moton school is lacking in courses, new books, smaller classes, and continuing to leave students unprepared for college. / "Editorial: Poverty is for the Poor" - Author Unknown - A critique of how the War on Poverty has been unsuccessful in Prince Edward County with some programs, such as adult education, have been started and canceled. / "Letter to the Editor" - Anonymous - A piece questioning the representation of the Black community as often positions, including the School Board, are given to Whites.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Various Contributors</dcterms:creator>
+   <dcterms:creator>O. Jerome Jackson, editor</dcterms:creator>
+   <dcterms:subject>African American newspapers</dcterms:subject>
+   <dcterms:subject>Associations, institutions, etc.—African American membership</dcterms:subject>
+   <dcterms:subject>Race discrimination—United States</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Farmville, VA (Prince Edward County)</dcterms:spatial>
+   <dcterms:date>1966-05</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>The Voice of Prince Edward County</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/69b2223b9a4c666446a186875657838e.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/726</edm:isShownAt>
+</mdRecord>

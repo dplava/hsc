@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010560</dcterms:identifier>
+   <dcterms:title>The Voice of Prince Edward County, Vol. ?, No. 4</dcterms:title>
+   <dcterms:description>"Moon Success: Earthly Hunger" - Author Unknown - A column questioning the benefits of the space program when so much needs to be done in the United States to improve the lives of citizens. / "Church Closes Doors to Five Worshippers" - Author Unknown - Five men were denied entrance to the Farmville Baptist Church because one of them was black. / "Black Representatives Are Silent" - Author Unknown - The two black school board representatives are chastised / "Worthy Says School System Uncivilized" - Author Unknown - A white member of the school board says he will continue to send his children to the Academy until the public schools are run in a "civilized manner." / "Die: But for Something Valuable" - Author Unknown - A piece condemning Farmville Baptist Church for not allowing the Black community to attend their services.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Various Contributors</dcterms:creator>
+   <dcterms:creator>Aphonso Vance White, editor</dcterms:creator>
+   <dcterms:subject>African American newspapers</dcterms:subject>
+   <dcterms:subject>Associations, institutions, etc.—African American membership</dcterms:subject>
+   <dcterms:subject>Race discrimination—United States</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial>Farmville, VA (Prince Edward County)</dcterms:spatial>
+   <dcterms:date>1969-07-21</dcterms:date>
+   <dcterms:type>Text</dcterms:type>
+   <dcterms:isPartOf>The Voice of Prince Edward County</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/b1d2a67dd23de7444bfdccb185844318.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/718</edm:isShownAt>
+</mdRecord>
