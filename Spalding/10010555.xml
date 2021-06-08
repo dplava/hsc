@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010555</dcterms:identifier>
+   <dcterms:title>U.S. Coastal Survey / A.D. Bache, Superintendent / Sketch C / Showing the Progress of the Survey in Section Hi / From 1843 to 1853/1853</dcterms:title>
+   <dcterms:description>Washington, U.S. Coast Survey, 1853; One in a series of charts of the Chesapeake Bay area made during the survey of the Bay, begun in 1843, This serves as a key to topographic and hydrographic sheets and shows the triangulation of of the Chesapeake Bay and parts of James, York, and Rappahannock Rivers. Covers areas from the Susquehanna River in Pennsylvania to Cape Henry. The topography was shown along the shoreline from one-half mile to three miles inland. The hydrography measured the depths in the bay and its tributaries. Alexander Dallas Bache, great-grandson of Benjamin Franklin and a graduate of West Point, become the director of the U.S. Coastal Survey in 1843. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Bache, A. D. (Alexander Dallas), 1806-1867</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:subject>Bache, A. D. (Alexander Dallas), 1806-1867</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1853</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>The Henry and Kaye Spalding Map Collection at Hampden-Sydney College; Image appears on pg. 60 (plate 61) of This New Founde Land, Hampden-Sydney College, Virginia, 2008</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/dd852fc6d84283f2326cd88f8f7940ae.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/712</edm:isShownAt>
+</mdRecord>
