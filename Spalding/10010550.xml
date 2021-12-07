@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010550</dcterms:identifier>
+   <dcterms:title>A map of / Virginia / and / Maryland. Sold by Thomas Basset in Fleet Street, / and Richard Chriswell in St. Pauls / Church yard</dcterms:title>
+   <dcterms:description>London; Note: image depicts verso; see "Related Item" field for front of image. Derivative 9, State I, of Smith's map of Virginia. Oriented with north to the right, this lovely map was first published in John Speed's The Theatre of the Empire of Great Britain in the addendum entitled A Prospect of the Most Parts of the World. It is based on Herrman's 1673 map of Virginia and Maryland and Smith's older map of Virginia. With other new maps of the coastal area, it was hoped the publication would encourage the possibilities of migration to the New World. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language/>
+   <dcterms:creator>Lamb, Francis</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1676</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/4ea3870a4d3dc7596090162e85e5d00b.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/707</edm:isShownAt>
+</mdRecord>

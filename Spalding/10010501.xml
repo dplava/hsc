@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010501</dcterms:identifier>
+   <dcterms:title>A New Map / of / Virginia / Maryland / And the Improved Parts of Pennsylvania / &amp; New Jersey / Most humbly Inscribed to the Right / Hon'ble the Earl of Orkney &amp; ct / Knight of ye most Noble and / Anciet [sic] Order of ye Thistle / 1719</dcterms:title>
+   <dcterms:description>London; This is the last major map based on Augustine Herrman's 1673 map of Virginia and Maryland, but unlike earlier maps, it is oriented with north at the top. The map was first published by Christopher Browne in 1685. This 3rd state includes the dedication to the Earl of Orkney, Lord George Hamilton, (absentee) governor of Virginia from 1710 to 1737. As in most maps of this period, settlements appear along the rivers and east coast. Revised by I. Senex, it appeared as Map 30 in Senex's A New General Atlas, published in 1721. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language/>
+   <dcterms:creator>Browne, Christopher, active 1684-1712</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1685/1719</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/9f7267dafe38c76d0c35369b0c98d2f6.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/658</edm:isShownAt>
+</mdRecord>

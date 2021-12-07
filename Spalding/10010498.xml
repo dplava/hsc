@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010498</dcterms:identifier>
+   <dcterms:title>Virginia, / Maryland, / Pennsilvania, / East &amp; West / New Jersey. / Sold by Jno Mount &amp; Thos Page / Tower Hill.</dcterms:title>
+   <dcterms:description>London; Engraved on two plates and oriented with north to the right, this was the first published chart of the Chesapeake Bay with enough specific information to use for navigation. First appearing in The English Pilot: The Fourth Book (1689), the chart covers the area from Staten Island to "Corotuck" Inlet, west to Charles City and New Kent counties, and just beyond Jamestown and the Eastern Shore. Philadelphia, established in 1683, appears perhaps because Thornton was involved in publishing the first map of the city in that year. The 1673 Herrman map, on which Thornton based his chart, had been sold by John Seller, determined to issue a great English sea atlas. An engraver as well as a cartographer, Thornton was part of the publishing effort for the second edition of The English Pilot in 1677. He had previously worked as hydrographer and chartmaker for the East India Company and Hudson's Bay Company. The chart was in use for more than one hundred years. This is the second state of a new plate first engraved in 1743. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language/>
+   <dcterms:creator>Thornton, John, 1641-1708</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1689/1743</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/532efc7194017454d49e27b275b2f35d.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/655</edm:isShownAt>
+</mdRecord>
