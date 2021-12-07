@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010509</dcterms:identifier>
+   <dcterms:title>Carte Particuliere de Virginie, Maryland, Pennsilvanie, Le Nouvelle Iarsey, Orient et Occidentale. A Amsterdam chez P. Mortier, Avac Privilege</dcterms:title>
+   <dcterms:description>Amsterdam; Based on the Thornton and Fisher chart of 1689 and Augustine Herrman's 1673 map of Maryland and Virginia, this map appeared in the volume 3 of Le Neptune Francois. It is oriented with north to the right. Focused on the Chesapeake Bay, the map was part of the atlas published by Pierre Mortier, who intended his maps to be more show pieces than working charts. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Jaillot, Alexis Hubert, 1632?-1712</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1700</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/05dd4ac193b31ecc8df9715cb58b84ca.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/666</edm:isShownAt>
+</mdRecord>

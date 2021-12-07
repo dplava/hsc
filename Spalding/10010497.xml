@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010497</dcterms:identifier>
+   <dcterms:title>Americae / pars, Nunc Virginia / dicta, primum ab Angli / inuenta, sumtibus Dn. Walteri</dcterms:title>
+   <dcterms:description>Frankfort, 1590; Theodor de Bry (1528-1598) used the watercolor map drawn by John White in 1585 as the basis for his engraved map of Virginia. Although primarily a map of what became the North Carolina coast, the map is the earliest published representation of the entrance to the Chesapeake Bay ("Chesepiooc Sinus") and the first to show the approach to Virginia from the sea (north is to the right). The map is beautifully and simply illustrated with ships, a sea monster, and indigenous figures. In April 1585 John White (fl. 1585-1598) accompanied Ralph Lane (ca. 1530-1603) to America to establish the first English settlement with one-hundred-eight colonists. Sponsored by Sir Walter Raleigh under a patent from Queen Elizabeth, the expedition was led by Sir Richard Grenville, Raleigh's cousin, but when Grenville returned to England in August, Lane remained as governor of the new colony. In June 1586 one-hundred-three surviving colonists sailed back to England with Sir Francis Drake on his return after his raid on the West Indies. White returned to American in May 1587 as governor of a colony of one-hundred-fifty people but left for England in August for supplies. Unable to return to Virginia until 1590, White found that the colonists, including his daughter, Eleanor Dare, and granddaughter, Virginia, had vanished. Thomas Hariot (ca. 1560-1621) was with White and Lane in 1585. A mathematician and astronomer, Hariot assessed the area's economic possibilities and described the native peoples. In 1588 Thomas Hariot published his account of the 1585 voyage in A Briefe and True Report of the New Founde Land of Virginia. The 1590 edition included White's map and de Bry's engravings of White's drawings of the native inhabitants. The map was published again in 1600, 1608, 1620, and possibly 1634. However, once the page has been removed from the volume, the publishing date cannot be determined. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Bry, Theodor de, 1528-1598 &amp;#13;</dcterms:creator>
+   <dcterms:creator>White, John (Illustrator)</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1590</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/dd10b5136531adee1c4ac4a925d6f61f.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/654</edm:isShownAt>
+</mdRecord>

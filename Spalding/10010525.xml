@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010525</dcterms:identifier>
+   <dcterms:title>A New Map of Virginia</dcterms:title>
+   <dcterms:description>London; Showing the area from Pennsylvania to North Carolina, this small map also shows roads, towns, waterways, some residents, and relief. It includes "the 2 farthest Settlements in Virginia in 1755." The map was published in London Magazine, vol. 30, November 1761, opposite page 572. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Kitchin, Thomas, 1718-1784</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1761</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/2c3df070d28ab7ce9afaf32af5d023ac.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/682</edm:isShownAt>
+</mdRecord>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10010510</dcterms:identifier>
+   <dcterms:title>Virginia</dcterms:title>
+   <dcterms:description>Richmond, Virginia; The first American reprint of John Smith's two-volume work from 1626, The True Travels, Adventures and Observations ... in Europe, Africke, and America and The Generall Histories of Virginia, New-England, and the Summer Iles, was published in Richmond by the Rev. John Holt Rice, who established the Virginia Literacy and Evangelical Magazine, forerunner of The Southern Literary Messenger. (Rice had Hampden-Sydney connections: in addition to his duties as professor and acting president in the 1790s, he founded the Union Theological Seminary there in 1813 and was a Trustee at the time he reprinted Smith's book.) In his dedication of the book to the "People of Virginia," the publisher indicated his high regard for John Smith by referring to him as "one of the most accomplished Hero's of the World." The volumes were printed by William W. Gray at the Franklin Press, reputed at the time to be the best printing shop in Virginia. Containing detailed engravings copied from the original, the books were expensive and technically difficult to produce. The map was copied from State 10; although clearly and carefully done, it is noticeably different from the original map, particularly in the shading. The name of William Hole, engraver of the original map, has been omitted. --From This New Founde Lande: The Henry &amp; Kaye Spalding Map Collection at Hampden-Sydney College, 2008.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Smith, John, 1580-1631</dcterms:creator>
+   <dcterms:subject>Maps</dcterms:subject>
+   <dcterms:subject>Chesapeake Bay Region (Md. and Va.)</dcterms:subject>
+   <dcterms:subject>Maps--Early works to 1800</dcterms:subject>
+   <dcterms:subject>Cartographic materials</dcterms:subject>
+   <dcterms:spatial>British North America</dcterms:spatial>
+   <dcterms:date>1819</dcterms:date>
+   <dcterms:type>Still Image</dcterms:type>
+   <dcterms:isPartOf>Henry and Kaye Spalding Map Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/fd6dfedcdaf42d0f8d0924fdc82f2061.jpg</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/667</edm:isShownAt>
+</mdRecord>
