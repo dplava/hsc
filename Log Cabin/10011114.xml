@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10011114</dcterms:identifier>
+   <dcterms:title>Thompson, Reverend Dr. William</dcterms:title>
+   <dcterms:description>Oral history interview between Angela Way, Maryska Connolly-Brown, and Reverend Dr. William Thompson. Reverend Thompson is the former college chaplain at Hampden-Sydney, and served as pastor of College Church until 2002.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Reverend Dr. William Thompson</dcterms:creator>
+   <dcterms:creator>Angela Way</dcterms:creator>
+   <dcterms:creator>Maryska Connolly-Brown</dcterms:creator>
+   <dcterms:subject>School integration</dcterms:subject>
+   <dcterms:subject>Early childhood education</dcterms:subject>
+   <dcterms:subject>Nursery schools</dcterms:subject>
+   <dcterms:subject>Hampden-Sydney College</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial/>
+   <dcterms:date>2017-11-01</dcterms:date>
+   <dcterms:type>Oral History</dcterms:type>
+   <dcterms:isPartOf>Log Cabin School Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/7575057d1798717668dfe170b5fd66db.mp3</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/3262</edm:isShownAt>
+</mdRecord>

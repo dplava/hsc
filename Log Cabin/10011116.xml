@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mdRecord xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:dcterms="http://purl.org/dc/terms/"
+          xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:edm="http://www.europeana.eu/schemas/edm/"
+          xmlns="http://dplava.lib.virginia.edu"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://dplava.lib.virginia.edu dplava.xsd">
+   <dcterms:identifier>10011116</dcterms:identifier>
+   <dcterms:title>Shomo, Thomas H.</dcterms:title>
+   <dcterms:description>Oral history interview between Angela Way, Maryska Connolly-Brown, and Thomas H. Shomo '69. Mr. Shomo is the former director of Communications at the College, and a member of the Class of 1969.</dcterms:description>
+   <dcterms:language>English</dcterms:language>
+   <dcterms:creator>Thomas H. Shomo</dcterms:creator>
+   <dcterms:creator>Angela Way</dcterms:creator>
+   <dcterms:creator>Maryska Connolly-Brown</dcterms:creator>
+   <dcterms:subject>School integration</dcterms:subject>
+   <dcterms:subject>Early childhood education</dcterms:subject>
+   <dcterms:subject>Nursery schools</dcterms:subject>
+   <dcterms:subject>Hampden-Sydney College</dcterms:subject>
+   <dcterms:subject>Prince Edward County (Va.)</dcterms:subject>
+   <dcterms:spatial/>
+   <dcterms:date>2018-09-10</dcterms:date>
+   <dcterms:type>Oral History</dcterms:type>
+   <dcterms:isPartOf>Log Cabin School Collection</dcterms:isPartOf>
+   <dcterms:rights>http://rightsstatements.org/vocab/UND/1.0/</dcterms:rights>
+   <dcterms:provenance>Hampden-Sydney College Archives &amp; Special Collections</dcterms:provenance>
+   <edm:preview>http://dams.hsc.edu/files/original/ba37f81401e77bfa5f1f7f252495c071.mp3</edm:preview>
+   <edm:isShownAt>http://dams.hsc.edu/items/show/3264</edm:isShownAt>
+</mdRecord>
